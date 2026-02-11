@@ -124,8 +124,8 @@ Through this project, I improved my understanding of:
 titanic_dataset/
 │
 ├── Titanic_EDA.ipynb
-├── Dataset files
-└── README.md
+├── train.csv
+└── readme.md
 ```
 
 ---
